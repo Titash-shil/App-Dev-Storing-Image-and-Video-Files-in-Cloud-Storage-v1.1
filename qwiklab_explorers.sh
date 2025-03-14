@@ -191,3 +191,5 @@ module.exports = {
 // [END exports]
 EOL
 
+npm start
+
